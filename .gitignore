@@ -1,0 +1,9 @@
+
+#exclude files
+
+resumes/
+
+__pycache__/
+.ipynb_checkpoints
+pdf2txt.py
+resume_pars.ipynb

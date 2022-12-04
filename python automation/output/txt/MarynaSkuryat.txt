@@ -1,0 +1,116 @@
+Maryna Skuryat
+
+Belarus, Minsk, Gintovta str.,
+32/166
+http://www.linkedin.com/pub/maryna-
+skuryat/7a/b95/b8b
+
+E-mail:
+
+ maryna_skuryat@epam.com
+ +375 33 673 80 19
+Phone:
+
+SUMMARY
+
+Software Testing Engineer with 1+ years of experience in manual testing
+Performed Functional, Integration, Regression, Usability, GUI Testing
+Have experience in creation Test Results Reports, Test Scenarios, Test Cases
+Reported software defects using several Defect Tracking systems
+Experienced in analyzing and reviewing functional requirements and specifications
+Good understanding of all phases of software development life cycle
+Good knowledge in Agile/Scrum and Iterative software development process
+Proficient in status reporting and issue escalations
+Good organizational and communication skills
+Good understanding of business issues
+
+QUALIFICATIONS
+
+ISTQB Certified Tester Foundation Level, 
+Licens #16289
+
+WORK
+EXPERIENCE
+
+EPAM Systems
+Software Testing Engineer
+
+April, 2013 — Till Now
+
+EPAM Utilization and Project Staffing Analyzer (UPSA) is an automated environment for
+performing of variety of tasks connected with managing EPAM's corporate human
+resources, creating the necessary prerequisites for recruiting new people, and
+implementing aspects of project planning.
+
+Environment: Oracle Database, Oracle SQL developer, Jenkins, Jira, EPAM PMC
+
+Functional Testing of Web- Oriented Applications;
+Integration Testing;
+GUI Testing;
+Usability Testing;
+Regression Testing;
+Root Cause Analysis; 
+Documentation Analyzing;
+Test Cases Creation;
+Bug Reporting;
+Test Result Reports Creation;
+Build installation (automatically).
+
+EPAM Systems
+Junior Software Testing Engineer
+
+February, 2013 — March, 2013
+
+Web portal for Belarusian Volleyball Federation.
+
+Maryna Skuryat
+
+1
+
+Environment: MS SQL Server, EPAM PMC, Microsoft Windows Server 2007, Microsoft
+Internet Explorer
+
+Functional Testing of Web- Oriented Applications;
+GUI Testing;
+Usability Testing;
+Regression Testing;
+Test Cases Creation;
+Bug Reporting.
+
+TOOLS&SKILLS
+
+Oracle SQL Developer, Oracle VirtualBox, VMware Workstation
+Database Oracle, MySQL, SQL
+EPAM PMC, Jira, Asana, Confluence, Jenkins 
+Fiddler, Firebug, Pentaho DI (Kettle)
+Business Communication, Business Correspondence, Mentoring 
+
+SPOKEN
+LANGUAGES
+
+EDUCATION
+
+English - Level: pre-intermediate
+German - Level: pre-intermediate
+Russian - Level: native
+Belorussian - Level: native
+
+Financial Management
+Belarus State Economic University
+
+part- time
+
+Finance
+Minsk College of Finance and Economics
+
+full-time
+
+2011 — 2015
+
+2008 — 2011
+
+Maryna Skuryat
+
+2
+
+
